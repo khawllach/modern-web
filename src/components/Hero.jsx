@@ -39,8 +39,8 @@ export default function Hero() {
       <div className="absolute bottom-20 right-4 sm:right-10 w-48 h-48 sm:w-72 sm:h-72 bg-cyan-500/10 blur-2xl rounded-full animate-pulse delay-1000" />
       <div className="w-full max-w-7xl mx-auto text-center relative">
         <div className="max-w-7xl mx-auto flex flex-col lg:grid lg:grid-cols-2 text-center lg:text-left gap-6 sm:gap-8 lg:gap-12 items-center relative">
-          <div>
-            <div className="inline-flex items-center space-x-2 px-3 sm:px-4 mb-4 sm:mb-6 bg-blue-500/10 py-2 border border-blue-500/20 rounded-full animate-in slide-in-from-bottom duration-700">
+          <div className="p-4">
+            <div className=" inline-flex items-center space-x-2 px-3 sm:px-4 mb-4 sm:mb-6 bg-blue-500/10 py-2 border border-blue-500/20 rounded-full animate-in slide-in-from-bottom duration-700">
               <Sparkles className="w-4 h-4 text-blue-400" />
               <span className="text-xs sm:text-sm text-blue-300">
                 Introducing CodeFlow AI
@@ -144,9 +144,9 @@ export default function Hero() {
                         lineHeight: "1.4",
                         height: "100%",
                         border: "1px solid #3c3c3c ",
-                        wordWrap:"break-word",
-                        whiteSpace:"pre-wrap",
-                        textAlign:"left",
+                        wordWrap: "break-word",
+                        whiteSpace: "pre-wrap",
+                        textAlign: "left",
                       }}
                     >
                       {codeexamples[activetab]}
