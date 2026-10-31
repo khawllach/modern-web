@@ -10,7 +10,6 @@
 ![ESLint](https://img.shields.io/badge/ESLint-10-4B32C3?logo=eslint&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?logo=vercel&logoColor=white)
 
-[Live Demo](https://modern-web-gamma-flame.vercel.app) · [Report a Bug](https://github.com/khawllach/modern-web/issues) · [Request a Feature](https://github.com/khawllach/modern-web/issues)
 
 </div>
 
@@ -59,20 +58,7 @@
 | Linting | [ESLint](https://eslint.org/) with `react-hooks` and `react-refresh` plugins |
 | Hosting | [Vercel](https://vercel.com/) |
 
-## 📁 Project Structure
 
-```
-modern-web/
-├── public/             # Static assets (favicon, images, etc.)
-├── src/                # Application source code
-│   └── main.jsx        # React entry point
-├── index.html          # HTML template
-├── vite.config.js      # Vite configuration
-├── eslint.config.js    # ESLint configuration
-└── package.json        # Dependencies and scripts
-```
-
-> ✏️ Expand the `src/` section with your real components and folders (for example `components/`, `assets/`, `App.jsx`).
 
 ## 🚀 Getting Started
 
