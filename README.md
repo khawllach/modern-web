@@ -21,7 +21,6 @@
 
 🔗 **Live site:** [modern-web-gamma-flame.vercel.app](https://modern-web-gamma-flame.vercel.app)
 
-> ✏️ **Add 2–3 sentences here** about what the site is for (portfolio, learning resource, product showcase, etc.) and who it targets.
 
 ## 🖼️ Preview
 
